@@ -34,4 +34,3 @@ pipenv = "*"
 django-import-export = "*"
 drf-spectacular = "~=0.26.4"
 cb-django-hubspot = {editable = true, path = "./modules/django_hubspot"}
-cb-django-slack = {editable = true, path = "./modules/django_slack"}
