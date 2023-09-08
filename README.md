@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-articles](backend/modules)
 - [django-drive](backend/modules)
 - [django-hubspot](backend/modules)
+- [django-slack](backend/modules)
 
 # Getting started: Frontend
 
